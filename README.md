@@ -64,9 +64,9 @@ el osciloscopio.
 
 Al conectar el osciloscopio al resistor de carga RL observamos la señal que esta nos envía con un valor pico de 6.87V
 
-![image](https://user-images.githubusercontent.com/104999420/185521203-5cf908b5-37e6-48a9-8326-8a69f451e889.png)
+![image](https://user-images.githubusercontent.com/104863870/185521816-9abda65e-8b55-4756-a7f0-75ba493e80dd.png)
 
-![image](https://user-images.githubusercontent.com/104999420/185521214-d6fdc748-4704-435c-aee9-69d0862cc3d8.png)
+![image](https://user-images.githubusercontent.com/104863870/185521776-cc7de1f3-5b38-4211-a945-58ee5498af78.png)
 
 Medición del voltaje en RL con el multímetro
 
