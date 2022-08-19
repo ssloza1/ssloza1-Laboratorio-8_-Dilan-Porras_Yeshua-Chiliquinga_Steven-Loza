@@ -117,7 +117,7 @@ El voltaje medido en los diferentes puntos son diferentes ya que con el oscilosc
 
 Realizando el calculo de error para saber cuanto falla, aplicamos la formula:
 
-
+<img width="451" alt="image" src="https://user-images.githubusercontent.com/104999420/185522074-21304e00-671b-490d-9d30-63d4d95d8fce.png">
 
 
 ## 4. VIDEO:
