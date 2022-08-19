@@ -112,7 +112,7 @@ El voltaje de salida en la resistencia RL es un aproximado de 4.813V
 
 El voltaje medido en los diferentes puntos son diferentes ya que con el osciloscopio medimos el voltaje pico, que es el punto más alto que toma de valores el voltaje y con el multímetro se midió el voltaje rms o eficaz. Entonces para saber si el voltaje medido con el osciloscopio es igual que el medido por el multímetro hay que aplicar la formula del valor eficaz, la cual es:
 
-<img width="411" alt="image" src="https://user-images.githubusercontent.com/104999420/185522008-2c6f1f96-4ce9-4336-94db-2b9c68cbbed8.png">
+<img width="353" alt="image" src="https://user-images.githubusercontent.com/104999420/185522188-992a3330-1b2b-4547-aa3e-81c2b5d636e9.png">
 
 
 Realizando el calculo de error para saber cuanto falla, aplicamos la formula:
