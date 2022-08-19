@@ -125,7 +125,7 @@ Realizando el calculo de error para saber cuanto falla, aplicamos la formula:
 
 ## 4. VIDEO:
 
-
+https://youtu.be/5ffOFN8e48g
 
 ## 5. CONCLUSIONES:
 
