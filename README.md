@@ -40,6 +40,7 @@ FECHA
 •	Analizar y calcular diferentes ejemplos de circuitos aplicando al periodo y frecuencia en ondas sinosoidales aprendido anteriormente en clases para lo cual se realizarán ejercicios experimentales para la comprobación mediante simuladores virtuales.
 ## 2 MARCO TEÓRICO:
 
+![image](https://user-images.githubusercontent.com/105320981/185523187-132fad1e-5965-4cf2-a24e-29d44a48a409.png)
 
 ## 3 PROCEDIMIENTO:
 
