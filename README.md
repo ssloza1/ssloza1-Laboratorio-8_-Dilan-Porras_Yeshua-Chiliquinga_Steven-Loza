@@ -77,32 +77,39 @@ Medición del voltaje en RL con el multímetro
 NOTA: Todas las preguntas son relacionadas, por lo que debe considerar las respuestas precedentes cada vez que conteste las preguntas. Para las lecturas de los valores debe considerar las gráficas que presenta el osciloscopio.
 
 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
+
 La amplitud pico de la subida de señal es de 2.3 divisiones y cuando la función va de bajada el valor de la amplitud pico de la señal de salida es de 4.6 divisiones por cuadro.
 
 ¿En qué valor está posicionada la perilla VOLTS/DIV? 
+
 Se encuentra posicionada en el VOLTS/DIV 3
 
 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
+
 Un ciclo completo de la señal de salida abarca un 4.5 divisiones por cuadro 
 
 ¿En qué valor está posicionada la perilla TIME/DIV? 
+
 Se encuentra posicionada en TIME-DIV de 0.1ms
 
-3.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
-del osciloscopio?
+3.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
+
 Amplitud de voltaje: 6.87(V)
+
 Periodo: 0.0005(s)
 
-3.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
-salida.
+3.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
+
 f: 2500(Hz)
 ω: 1507.9(rad/s)
 
 3.5.7. Con el multímetro digital mida el voltaje de salida en RL: 
+
 El voltaje de salida en la resistencia RL es un aproximado de 4.813V
 
 3.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
 ¿Coinciden?   ¿Por qué?
+
 El voltaje medido en los diferentes puntos son diferentes ya que con el osciloscopio medimos el voltaje pico, que es el punto más alto que toma de valores el voltaje y con el multímetro se midió el voltaje rms o eficaz. Entonces para saber si el voltaje medido con el osciloscopio es igual que el medido por el multímetro hay que aplicar la formula del valor eficaz, la cual es:
 
 <img width="155" alt="image" src="https://user-images.githubusercontent.com/104999420/185521406-7d1e9089-82f8-4763-9506-59916f2f7741.png">
