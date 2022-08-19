@@ -87,7 +87,7 @@ Se encuentra posicionada en el VOLTS/DIV 3
 
 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
-Un ciclo completo de la señal de salida abarca un 4.5 divisiones por cuadro 
+Un ciclo completo de la señal de salida abarca un 4 divisiones por cuadro 
 
 ¿En qué valor está posicionada la perilla TIME/DIV? 
 
