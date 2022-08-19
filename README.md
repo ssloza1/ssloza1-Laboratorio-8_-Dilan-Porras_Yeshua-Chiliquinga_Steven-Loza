@@ -101,6 +101,8 @@ Periodo: 0.0005(s)
 
 3.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
 
+![image](https://user-images.githubusercontent.com/104863870/185524350-31462b00-5d44-42a1-9a11-6083b9326f55.png)
+
 f: 2500(Hz)
 ω: 1507.9(rad/s)
 
