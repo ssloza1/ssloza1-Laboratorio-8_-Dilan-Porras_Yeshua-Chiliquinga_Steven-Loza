@@ -70,7 +70,7 @@ Al conectar el osciloscopio al resistor de carga RL observamos la señal que est
 
 Medición del voltaje en RL con el multímetro
 
-![image](https://user-images.githubusercontent.com/104999420/185521252-260b06b9-5664-4539-90d5-cbbbf12629ae.png)
+![image](https://user-images.githubusercontent.com/104863870/185521656-64332f0e-4c4b-409a-8795-3fa3c9503654.png)
 
 3.5.4. Responda las siguientes preguntas:
 
